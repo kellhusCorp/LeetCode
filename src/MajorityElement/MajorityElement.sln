@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajorityElement", "MajorityElement\MajorityElement.csproj", "{1A53FE8A-CB27-4E66-B819-F117969A5052}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajorityElement.Tests", "MajorityElement.Tests\MajorityElement.Tests.csproj", "{AE7F4319-DE9F-4E9D-80A7-22AF84B5263C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWordsStringIII", "..\ReverseWordsStringIII\ReverseWordsStringIII.csproj", "{62E26961-A533-4176-B6C2-03A9AF499850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A53FE8A-CB27-4E66-B819-F117969A5052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A53FE8A-CB27-4E66-B819-F117969A5052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A53FE8A-CB27-4E66-B819-F117969A5052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A53FE8A-CB27-4E66-B819-F117969A5052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE7F4319-DE9F-4E9D-80A7-22AF84B5263C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7F4319-DE9F-4E9D-80A7-22AF84B5263C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7F4319-DE9F-4E9D-80A7-22AF84B5263C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7F4319-DE9F-4E9D-80A7-22AF84B5263C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62E26961-A533-4176-B6C2-03A9AF499850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E26961-A533-4176-B6C2-03A9AF499850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E26961-A533-4176-B6C2-03A9AF499850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E26961-A533-4176-B6C2-03A9AF499850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
